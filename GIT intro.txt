@@ -1,0 +1,16 @@
+What is GIT:
+GIT is version control system or software
+
+What is version Control ?
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.
+
+GIT Vs GITHUB (acquired by Microsoft)
+GIT – underlying Technology (Terminal based, basically used in Linux os development)
+GIT HUB: Providers -> Web application 
+
+Basic GITHUB Terminology: 
+1.	Repositories (  Folder – contains - project related file)
+2.	Readme file -> Basic instruction about the project
+3.	Commit -> ( saving the state)
+GITHUB 
+Web based hosting service for software
