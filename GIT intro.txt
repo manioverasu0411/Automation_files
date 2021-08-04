@@ -14,3 +14,4 @@ Basic GITHUB Terminology:
 3.	Commit -> ( saving the state)
 GITHUB 
 Web based hosting service for software
+its mainly called as web application providers
