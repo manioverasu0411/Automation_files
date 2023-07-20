@@ -18,3 +18,4 @@ its mainly called as web application providers
 GIT HUB Branches:
 A branch is isolate development work without affecting other branches in the repository
 Each repository is having one default branch (MASTER) and can have multiple other branches, you can merge merge branch with other branch using pull request..
+Testcheck 1 Test conflict verification
